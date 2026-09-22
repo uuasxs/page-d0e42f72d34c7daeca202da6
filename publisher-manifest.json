@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9362aaf82e7d43fce056b0b4",
+  "owner": "uuasxs",
+  "repo": "page-d0e42f72d34c7daeca202da6",
+  "title": "FETV",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d0e42f72d34c7daeca202da6",
+      "a": "FETV",
+      "b": "2027最新官网",
+      "entity": "FETV",
+      "brand": "FETV",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "84f8156058a8d4df93fe6f50de370e89e11219915b1df5576ed966b9e394312f",
+      "content": {
+        "primary_entity": "FETV",
+        "keyword1": "FETV",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，FETV 面向需要跨区观看流媒体、游戏加速与日常浏览的用户，提供基础版、旗舰版与团队版三档订阅。基础版适合手机与平板轻度使用，旗舰版增加 IPLC 专线节点，团队版覆盖多设备与高带宽场景。按年付方案比月付更省，用户可依流量与设备数量选择合适档位。",
+          "AI_HERO_SUBTITLE": "多设备订阅与节点选择",
+          "AI_HERO_INTRO": "FETV 是面向海外加速场景的订阅服务，提供基础版、旗舰版与团队版三档选择，分别对应不同流量、设备数量与节点类型。用户可依自身设备规模与流媒体、游戏需求挑选套餐，并按年付或月付方式开通使用。",
+          "AI_VISUAL_TITLE": "挑选合适的 FETV 订阅",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，适合 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线节点",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备与定制路由",
+          "AI_FEATURES_TITLE": "按需求选择订阅",
+          "AI_FEATURES_INTRO": "从流量、设备与节点类型三个角度对比三档套餐，帮助确定合适档位。",
+          "AI_FEATURE_TITLE_1": "流量规模",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。",
+          "AI_FEATURE_TITLE_3": "节点与周期",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供专线或高带宽节点，按年付更划算。",
+          "AI_CLIENTS_TITLE": "选择对应设备客户端",
+          "AI_CLIENTS_INTRO": "依设备系统选择客户端，导入订阅信息后即可使用对应 FETV 套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_GUIDE_TITLE": "三步配置流程",
+          "AI_GUIDE_INTRO": "先确定套餐，再检查设备适配要求，最后依客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "依流量与设备数量选择基础版、旗舰版或团队版，并确定月付或年付。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认设备系统与版本满足所选用客户端的要求，再下载对应版本。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端内按文档导入订阅信息，完成后即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_CLOSING_TEXT": "根据使用设备与流量需求挑选档位，然后依客户端文档完成订阅导入。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，旗舰版每月 300GB，团队版每月 1000GB。个人日常选基础版或旗舰版，多设备或家庭共享选团队版更合适。",
+          "AI_FAQ_ANSWER_2": "可以。基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。按常用设备数量选择对应套餐即可，超出设备数建议升级。",
+          "AI_FAQ_ANSWER_3": "在客户端内选择从订阅导入或粘贴订阅链接，填入 FETV 提供的订阅地址后更新节点列表，再按客户端文档选择节点连接。",
+          "AI_FAQ_ANSWER_4": "按年付比月付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用建议按年付，短期或试用可选月付。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合对延迟和解锁要求较高的用户，团队版则提供 VIP 高带宽节点和企业定制路由。",
+          "AI_FAQ_QUESTION_1": "FETV 套餐流量和价格怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "FETV 订阅怎么导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "什么情况适合选旗舰版或团队版？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "erytdrn.cn",
+    "host": "erytdrn.cn"
+  },
+  "file_hashes": {
+    "index.html": "11464a1610c8a90562c2dc63f264efd5d1054a1aab715855075b65f4ca4c3480",
+    "sitemap.xml": "2d31705623f3c5cf1226ecc021b55926c09037a80360c65a27283e6491b928dc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ec249e17396a948f4e98d02ca21bbaf17991c6156a6e94b2e93d882f9f7f01c4",
+    "robots.txt": "e9cbe35283981174a1544da7b6c271aad316057d959ec9d5848eb588d2c1c5e1",
+    "440381dd45cdaaaa007d6373b99dc27a.txt": "922cb6c4a2e38d6b9bd712bcdea925497cf443142f2ee78d4ecdb80a5b7d3e42"
+  },
+  "revision": "52e2f4ac240f5cd5955b351cb66a26b1a5dd5b0ff32881a618cb8f3233f60749"
+}
